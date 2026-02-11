@@ -1,4 +1,4 @@
-
+﻿
 import React, { useState, useEffect } from 'react';
 import { Language } from './types';
 import { TRANSLATIONS, COLORS } from './constants';
@@ -136,8 +136,8 @@ const App: React.FC = () => {
                  <User className="w-5 h-5 text-white" />
                </div>
                <div>
-                 <p className="text-xs font-bold text-white leading-none">Aashish K.</p>
-                 <p className="text-[10px] text-gray-400 mt-1 uppercase tracking-widest">Premium User</p>
+                 <p className="text-xs font-bold text-white leading-none">Christina Rimal</p>
+                 <p className="text-[10px] text-gray-400 mt-1 uppercase tracking-widest">Project Developer</p>
                </div>
              </div>
              <button 
@@ -232,3 +232,7 @@ const App: React.FC = () => {
 };
 
 export default App;
+
+
+
+
