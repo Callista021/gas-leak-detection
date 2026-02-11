@@ -1,0 +1,9 @@
+
+{
+  "name": "GasGuard Nepal",
+  "description": "Professional gas leak detection and safety management platform for Nepal, featuring real-time monitoring, AI-powered safety advice, and emergency response tools.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
