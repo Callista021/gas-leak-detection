@@ -1,20 +1,28 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🔥 Smart Gas Leak Detection System - Nepal
 
-# Run and deploy your AI Studio app
+![Gas Safety](https://img.shields.io/badge/Safety-Critical-red)
+![React](https://img.shields.io/badge/React-18.2-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
+![Nepal](https://img.shields.io/badge/Made_for-Nepal-green)
 
-This contains everything you need to run your app locally.
+A real-time IoT-based gas leak monitoring and alert system designed specifically for Nepal's context. This system prevents disasters in homes, restaurants, and businesses by providing instant alerts and automatic gas shut-off.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1lIcOFD3i19OghPeERc9Uf-UZ-npabtnQ
+## 🎯 Features
+✅ **Real-time Monitoring** - Continuous gas level tracking  
+✅ **Instant Alerts** - SMS & Push notifications  
+✅ **Automatic Shut-off** - Solenoid valve control  
+✅ **Mobile App** - Dashboard & remote control  
+✅ **Cloud Storage** - Data analytics & history  
+✅ **Nepali Context** - Load-shedding aware, local SMS integration  
 
-## Run Locally
+## 📱 App Screenshots
+*(Add screenshots after building)*
 
-**Prerequisites:**  Node.js
+## 🛠️ Tech Stack
+- **Frontend:** React 18 + TypeScript + Vite
+- **UI Components:** Custom React components
+- **State Management:** React Hooks
+- **Build Tool:** Vite
+- **Deployment:** GitHub Pages / Vercel
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📁 Project Structure
